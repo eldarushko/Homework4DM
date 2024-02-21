@@ -81,7 +81,6 @@ try:
 except Exception as e:
     print("Viga: ", e)
 
-
 #16
 from random import *
 
